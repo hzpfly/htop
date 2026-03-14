@@ -27,6 +27,8 @@ Running `htop` requires `ncurses` libraries, typically named libncurses(w).
 
 For more information and details visit [htop.dev](https://htop.dev).
 
+For developers getting started with the source tree, see the [Code Reading Guide](docs/code-reading-guide.md).
+
 ## Usage
 See the manual page (`man htop`) or the help menu (`h` or `F1` inside `htop`) for a list of supported key commands.
 
